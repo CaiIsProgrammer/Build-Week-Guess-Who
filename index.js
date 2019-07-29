@@ -12,7 +12,7 @@ app.use("/api/auth", auth);
 
 mongoose
   .connect(
-    `mongodb+srv://admin:${PASS}@guesswho-faq0g.mongodb.net/test?retryWrites=true&w=majority`,
+    `mongodb+srv://admin:Iloveyou1!@guesswho-faq0g.mongodb.net/test?retryWrites=true&w=majority`,
     { useNewUrlParser: true }
   )
   .then(data => {
